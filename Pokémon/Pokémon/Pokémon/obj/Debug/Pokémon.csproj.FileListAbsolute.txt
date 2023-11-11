@@ -1,0 +1,11 @@
+C:\Users\bm609\source\repos\Pokémon\Pokémon\bin\Debug\Pokémon.exe.config
+C:\Users\bm609\source\repos\Pokémon\Pokémon\bin\Debug\Pokémon.exe
+C:\Users\bm609\source\repos\Pokémon\Pokémon\bin\Debug\Pokémon.pdb
+C:\Users\bm609\source\repos\Pokémon\Pokémon\obj\Debug\Pokémon.csproj.AssemblyReference.cache
+C:\Users\bm609\source\repos\Pokémon\Pokémon\obj\Debug\Pokémon.csproj.SuggestedBindingRedirects.cache
+C:\Users\bm609\source\repos\Pokémon\Pokémon\obj\Debug\Pokémon.Properties.Resources.resources
+C:\Users\bm609\source\repos\Pokémon\Pokémon\obj\Debug\Pokémon.csproj.GenerateResource.cache
+C:\Users\bm609\source\repos\Pokémon\Pokémon\obj\Debug\Pokémon.csproj.CoreCompileInputs.cache
+C:\Users\bm609\source\repos\Pokémon\Pokémon\obj\Debug\Pokémon.exe
+C:\Users\bm609\source\repos\Pokémon\Pokémon\obj\Debug\Pokémon.pdb
+C:\Users\bm609\source\repos\Pokémon\Pokémon\obj\Debug\Pokémon.Form1.resources
